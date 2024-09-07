@@ -1,3 +1,4 @@
 Resolusi nasyith 
 - Konsisten 
 - Rajin
+- Fullstack
