@@ -1,4 +1,6 @@
 rencana nasyith 
 1. Rajin
+angular
+laravel
 2. Tabah
 3. Congok
