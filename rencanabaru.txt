@@ -1,5 +1,6 @@
 rencana nasyith 
 1. Rajin
 -Vue
+-js
 2. Tabah coba1
 3. Congok
